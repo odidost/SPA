@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Nora Spa" viewBox="0 0 260 64" fill="none">
+  <!-- Brand text: Nora in Instrument Serif editorial style -->
+  <text x="4" y="46" font-family="'Instrument Serif', Georgia, 'Times New Roman', serif" font-size="52" font-style="normal" font-weight="400" fill="#203F35" letter-spacing="-0.02em">Nora</text>
+  <!-- Fine brass decorative dot -->
+  <circle cx="126" cy="40" r="2.5" fill="#A77740" />
+  <!-- Secondary wordmark: SPA in DM Sans uppercase tracked -->
+  <text x="138" y="44" font-family="'DM Sans', system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" letter-spacing="0.32em" fill="#203F35">SPA</text>
+</svg>
